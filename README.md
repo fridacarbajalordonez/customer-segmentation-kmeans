@@ -399,3 +399,4 @@ This project demonstrates an end-to-end approach to **customer segmentation usin
 Rather than focusing solely on clustering performance, the analysis combines statistical evaluation with customer profiling and business interpretation. The resulting four segments provide a practical framework for differentiating customer strategies according to **customer value, campaign responsiveness, household characteristics, and digital engagement**.
 
 The project highlights how machine learning can be used not only to identify patterns in customer data, but also to translate those patterns into actionable business insights.
+
